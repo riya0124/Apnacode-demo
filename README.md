@@ -1,4 +1,4 @@
 # Apnacode-demo
 This is my first Git Repository.
 <br>
-Author - Riya Tiwari 
+Author - Riya (Apna Code) 
